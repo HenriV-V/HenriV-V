@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71F2D&background=193EFF00&random=false&width=435&lines=Welcome+to+Henri+V's+Github!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=25&duration=7000&pause=500&color=00F702&width=435&lines=Wake+up%2C+Neo...;The+Matrix+has+you...;Follow+the+white+rabbit.;Knock%2C+knock%2C+Neo.)](https://git.io/typing-svg)
 
 ![Henri V's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriV-V&show_icons=true&theme=transparent)
